@@ -1,10 +1,11 @@
 {
 	"homepage": "https://github.com/ApexModder/ApexCore",
 	"promos": {
-		"1.16.5-latest": "1.1.0",
-		"1.16.5-recommended": "1.1.0"
+		"1.16.5-latest": "1.1.1",
+		"1.16.5-recommended": "1.1.1"
 	},
 	"1.16.5": {
+		"1.1.1": "Changelog: https://github.com/ApexModder/ApexCore/compare/v1.1.0...v1.1.1",
 		"1.1.0": "Changelog: https://github.com/ApexModder/ApexCore/compare/v1.0.9...v1.1.0",
 		"1.0.9": "Changelog: https://github.com/ApexModder/ApexCore/compare/v1.0.8...v1.0.9",
 		"1.0.8": "Changelog: https://github.com/ApexModder/ApexCore/compare/v1.0.7...v1.0.8",
