@@ -1,10 +1,12 @@
 {
 	"homepage": "https://github.com/ApexModder/Registrator",
 	"promos": {
-		"1.16.5-latest": "1.0.13",
-		"1.16.5-recommended": "1.0.13"
+		"1.16.5-latest": "1.0.15",
+		"1.16.5-recommended": "1.0.15"
 	},
 	"1.16.5": {
+		"1.0.15": "Changelog: https://github.com/ApexModder/Registrator/compare/v1.0.14...v1.0.15",
+		"1.0.14": "Changelog: https://github.com/ApexModder/Registrator/compare/v1.0.13...v1.0.14",
 		"1.0.13": "Changelog: https://github.com/ApexModder/Registrator/compare/v1.0.12...v1.0.13",
 		"1.0.12": "Changelog: https://github.com/ApexModder/Registrator/compare/v1.0.11...v1.0.12",
 		"1.0.11": "Changelog: https://github.com/ApexModder/Registrator/compare/v1.0.10...v1.0.11",
