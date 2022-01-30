@@ -1,10 +1,11 @@
 {
 	"homepage": "https://github.com/ApexModder/FantasyTable",
 	"promos": {
-		"1.16.5-latest": "1.0.4",
-		"1.16.5-recommended": "1.0.4"
+		"1.16.5-latest": "1.0.5",
+		"1.16.5-recommended": "1.0.5"
 	},
 	"1.16.5": {
+		"1.0.5": "Changelog: https://github.com/ApexModder/FantasyTable/compare/v1.0.4...v1.0.5",
 		"1.0.4": "Changelog: https://github.com/ApexModder/FantasyTable/compare/v1.0.3...v1.0.4",
 		"1.0.3": "Changelog: https://github.com/ApexModder/FantasyTable/compare/v1.0.2...v1.0.3",
 		"1.0.2": "Changelog: https://github.com/ApexModder/FantasyTable/compare/v1.0.1...v1.0.2",
