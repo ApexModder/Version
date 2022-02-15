@@ -7,10 +7,11 @@
 		"1.17.1-latest": "2.0.0",
 		"1.17.1-recommended": "2.0.0",
 
-		"1.18.1-latest": "3.0.7",
+		"1.18.1-latest": "3.0.8",
 		"1.18.1-recommended": "3.0.2"
 	},
 	"1.18.1": {
+		"3.0.8": "Changelog: https://github.com/ApexModder/FantasyTable/compare/v3.0.7...v3.0.8",
 		"3.0.7": "Changelog: https://github.com/ApexModder/FantasyTable/compare/v3.0.6...v3.0.7",
 		"3.0.6": "Changelog: https://github.com/ApexModder/FantasyTable/compare/v3.0.5...v3.0.6",
 		"3.0.5": "Changelog: https://github.com/ApexModder/FantasyTable/compare/v3.0.4...v3.0.5",
@@ -24,6 +25,7 @@
 		"2.0.0": "First & Final 1.17.1 Update!\nChangelog: https://github.com/ApexModder/FantasyTable/compare/v1.0.7...v2.0.0"
 	},
 	"1.16.5": {
+		"1.1.6": "Changelog: https://github.com/ApexModder/FantasyTable/compare/v1.1.7...v1.1.6",
 		"1.1.5": "Changelog: https://github.com/ApexModder/FantasyTable/compare/v1.1.4...v1.1.5",
 		"1.1.4": "Changelog: https://github.com/ApexModder/FantasyTable/compare/v1.1.3...v1.1.4",
 		"1.1.3": "Changelog: https://github.com/ApexModder/FantasyTable/compare/v1.1.2...v1.1.3",
