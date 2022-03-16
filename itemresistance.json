@@ -1,33 +1,43 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/itemresistance",
 	"promos": {
-		"1.16.3-recommended": "1.3.0",
-		"1.16.3-latest": "1.3.1",
+		"1.18.1-recommended": "7.0.0",
+		"1.18.1-latest": "7.0.0",
+
+		"1.17.1-recommended": "6.0.0",
+		"1.17.1-latest": "6.0.0",
+
+		"1.16.5-recommended": "4.0.2",
+		"1.16.5-latest": "4.0.1",
+
 		"1.16.4-recommended": "2.1.0",
 		"1.16.4-latest": "2.1.0",
-		"1.16.5-recommended": "4.0.1",
-		"1.16.5-latest": "4.0.1",
-		"1.17.1-recommended": "6.0.0",
-		"1.17.1-latest": "6.0.0"
+
+		"1.16.3-recommended": "1.3.0",
+		"1.16.3-latest": "1.3.1"
 	},
-	"1.16.3": {
-		"1.0.2": "Initial mod release",
-		"1.0.3": "Fix broken update.json url",
-		"1.0.4": "Update mod to show CurseForge URL rather than GitHub",
-		"1.3.0": "Update Forge mappings",
-		"1.3.1": "Repackaged under `xyz.apex.forge.itemresistance`"
-	},
-	"1.16.4": {
-		"2.0.0": "Update to 1.16.4",
-		"2.1.0": "Updated to latest MinecraftForge (35.1.37) version\nRepackaged under `xyz.apex.forge.itemresistance`"
-	},
-	"1.16.5": {
-		"3.0.0": "Update to 1.16.5",
-		"3.1.0": "Updated to latest MinecraftForge (36.0.40) version\nRepackaged under `xyz.apex.forge.itemresistance`",
-		"4.0.0": "Update to latest MinecraftForge version (Now using Official mappings)\nUpdate templated mod setup",
-		"4.0.1": "Final 1.16.5 Build\nBump mod version 4.0.0 -> 4.0.1\nUpdated to most recent Forge MDK Version (36.1.31)"
+	"1.18.1": {
+		"7.0.0": "Update to 1.18.1"
 	},
 	"1.17.1": {
 		"6.0.0": "Update to 1.17.1"
+	},
+	"1.16.5": {
+		"4.0.2": "See v4.0.1",
+		"4.0.1": "Final 1.16.5 Build\nBump mod version 4.0.0 -> 4.0.1\nUpdated to most recent Forge MDK Version (36.1.31)",
+		"4.0.0": "Update to latest MinecraftForge version (Now using Official mappings)\nUpdate templated mod setup",
+		"3.1.0": "Updated to latest MinecraftForge (36.0.40) version\nRepackaged under `xyz.apex.forge.itemresistance`",
+		"3.0.0": "Update to 1.16.5"
+	},
+	"1.16.4": {
+		"2.1.0": "Updated to latest MinecraftForge (35.1.37) version\nRepackaged under `xyz.apex.forge.itemresistance`",
+		"2.0.0": "Update to 1.16.4"
+	},
+	"1.16.3": {
+		"1.3.1": "Repackaged under `xyz.apex.forge.itemresistance`",
+		"1.3.0": "Update Forge mappings",
+		"1.0.4": "Update mod to show CurseForge URL rather than GitHub",
+		"1.0.3": "Fix broken update.json url",
+		"1.0.2": "Initial mod release"
 	}
 }
