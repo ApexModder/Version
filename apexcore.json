@@ -7,10 +7,11 @@
 		"1.17.1-latest": "2.0.1",
 		"1.17.1-recommended": "2.0.1",
 
-		"1.18.1-latest": "3.0.7",
-		"1.18.1-recommended": "3.0.7"
+		"1.18.1-latest": "3.1.0",
+		"1.18.1-recommended": "3.1.0"
 	},
 	"1.18.1": {
+		"3.1.0": "Changelog: https://github.com/ApexModder/ApexCore/compare/v3.0.7...v3.1.0",
 		"3.0.7": "Changelog: https://github.com/ApexModder/ApexCore/compare/v3.0.6...v3.0.7",
 		"3.0.6": "Fixes hard crash with Creative Screen, Update Now!!!\nChangelog: https://github.com/ApexModder/ApexCore/compare/v3.0.5...v3.0.6",
 		"3.0.5": "Changelog: https://github.com/ApexModder/ApexCore/compare/v3.0.4...v3.0.5",
