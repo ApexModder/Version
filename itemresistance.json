@@ -7,8 +7,8 @@
 		"1.17.1-recommended": "6.0.0",
 		"1.17.1-latest": "6.0.0",
 
-		"1.16.5-recommended": "4.0.2",
-		"1.16.5-latest": "4.0.1",
+		"1.16.5-recommended": "4.0.3",
+		"1.16.5-latest": "4.0.3",
 
 		"1.16.4-recommended": "2.1.0",
 		"1.16.4-latest": "2.1.0",
@@ -23,6 +23,7 @@
 		"6.0.0": "Update to 1.17.1"
 	},
 	"1.16.5": {
+		"4.0.3": "See v4.0.1\nFixed broken mod jars issue",
 		"4.0.2": "See v4.0.1",
 		"4.0.1": "Final 1.16.5 Build\nBump mod version 4.0.0 -> 4.0.1\nUpdated to most recent Forge MDK Version (36.1.31)",
 		"4.0.0": "Update to latest MinecraftForge version (Now using Official mappings)\nUpdate templated mod setup",
