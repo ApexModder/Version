@@ -10,10 +10,11 @@
 		"1.18.1-latest": "3.1.1",
 		"1.18.1-recommended": "3.1.1",
 
-		"1.18.1-latest": "4.0.0",
-		"1.18.1-recommended": "4.0.0"
+		"1.18.1-latest": "4.0.1",
+		"1.18.1-recommended": "4.0.1"
 	},
 	"1.18.2": {
+		"4.0.1": "Changelog: https://github.com/ApexModder/Registrator/compare/v4.0.0...v4.0.1",
 		"4.0.0": "Initial 1.18.2 Port\nChangelog: https://github.com/ApexModder/Registrator/compare/v3.0.0...v4.0.0"
 	},
 	"1.18.1": {
