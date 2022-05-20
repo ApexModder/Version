@@ -1,8 +1,8 @@
 {
 	"homepage": "https://github.com/apexstudios-Dev/FantasyFurniture",
 	"promos": {
-		"1.16.5-latest": "0.2.0-BETA",
-		"1.16.5-recommended": "0.2.0-BETA",
+		"1.16.5-latest": "1.0.0",
+		"1.16.5-recommended": "1.0.0",
 
 		"1.18.1-latest": "",
 		"1.18.1-recommended": "",
@@ -17,6 +17,7 @@
 
 	},
 	"1.16.5": {
+		"1.0.0": "First Major Release!!!!z\nChangelog: https://github.com/ApexStudios-Dev/FantasyFurniture/compare/v0.2.0-BETA...v1.0.0",
 		"0.2.0-BETA": "Changelog: https://github.com/ApexStudios-Dev/FantasyFurniture/compare/v0.1.2-ALPHA...v0.2.0-BETA",
 		"0.1.2-ALPHA": "Changelog: https://github.com/ApexStudios-Dev/FantasyFurniture/compare/v0.1.0-ALPHA...v0.1.2-ALPHA",
 		"0.1.0-ALPHA": "Initial 1.16.5 Alpha Release"
