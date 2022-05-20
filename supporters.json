@@ -1,19 +1,25 @@
 [
-	"16d60e4e-53ba-4288-8062-ca1ea074b501", // RudySPG
-	"ae3f6ca6-b28c-479b-9c97-4be7df600041", // Tobi
-
-	// Fantasy
+	{
+		"uuid": "16d60e4e-53ba-4288-8062-ca1ea074b501",
+		"level": "supporter",
+		"name": "RudySPG"
+	},
+	{
+		"uuid": "ae3f6ca6-b28c-479b-9c97-4be7df600041",
+		"level": "supporter",
+		"name": "TroublesomeTobi"
+	},
 	{
 		"uuid": "598535bd-f330-4123-b4d0-c6e618390477",
-		"level": "artist"
+		"level": "artist",
+		"name": "FantasyGaming"
 	},
-
-	// Apex
 	{
 		"uuid": "43fd393b-879d-45ec-b2d5-ce8c4688ab66",
 		"aliases": [
 			"0dcd933f-28b3-44ab-ac09-5dc9095a7b21"
 		],
-		"level": "owner"
+		"level": "owner",
+		"name": "Apex"
 	}
 ]
