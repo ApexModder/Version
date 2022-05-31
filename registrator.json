@@ -4,8 +4,8 @@
 		"1.16.5-latest": "1.4.2",
 		"1.16.5-recommended": "1.4.2",
 
-		"1.17.1-latest": "2.0.4",
-		"1.17.1-recommended": "2.0.4",
+		"1.17.1-latest": "2.1.1",
+		"1.17.1-recommended": "2.1.1",
 
 		"1.18.1-latest": "3.2.0",
 		"1.18.1-recommended": "3.2.0",
@@ -31,7 +31,9 @@
 		"3.0.0": "Initial 1.18.1 Port\nChangelog: https://github.com/apexstudios-Dev/Registrator/compare/v2.0.2...v3.0.0"
 	},
 	"1.17.1": {
-		"2.0.4": "Final 1.17.1 Update!\nChangelog: https://github.com/apexstudios-Dev/Registrator/compare/v2.0.3...v2.0.4",
+		"2.1.1": "Changelog: https://github.com/apexstudios-Dev/Registrator/compare/v2.1.0...v2.1.1",
+		"2.1.0": "Changelog: https://github.com/apexstudios-Dev/Registrator/compare/v2.0.4...v2.1.0",
+		"2.0.4": "Changelog: https://github.com/apexstudios-Dev/Registrator/compare/v2.0.3...v2.0.4",
 		"2.0.3": "Changelog: https://github.com/apexstudios-Dev/Registrator/compare/v2.0.2...v2.0.3",
 		"2.0.2": "Changelog: https://github.com/apexstudios-Dev/Registrator/compare/v2.0.1...v2.0.2",
 		"2.0.1": "Changelog: https://github.com/apexstudios-Dev/Registrator/compare/v2.0.0...v2.0.1",
