@@ -1,8 +1,8 @@
 {
 	"homepage": "https://github.com/apexstudios-Dev/ApexCore",
 	"promos": {
-		"1.16.5-latest": "1.8.0",
-		"1.16.5-recommended": "1.8.0",
+		"1.16.5-latest": "1.9.0",
+		"1.16.5-recommended": "1.9.0",
 
 		"1.17.1-latest": "2.2.1",
 		"1.17.1-recommended": "2.2.1",
@@ -44,6 +44,7 @@
 		"2.0.0": "Initial 1.17.1 Port\nChangelog: https://github.com/apexstudios-Dev/ApexCore/compare/v1.1.22...v2.0.0"
 	},
 	"1.16.5": {
+		"1.9.0": "Changelog: https://github.com/apexstudios-Dev/ApexCore/compare/v1.8.0...v1.9.0",
 		"1.8.0": "Fix plushies not saving data when broken, UPDATE ASAP!!!\nChangelog: https://github.com/apexstudios-Dev/ApexCore/compare/v1.7.0...v1.8.0",
 		"1.7.0": "Changelog: https://github.com/apexstudios-Dev/ApexCore/compare/v1.6.2...v1.7.0",
 		"1.6.2": "Changelog: https://github.com/apexstudios-Dev/ApexCore/compare/v1.6.1...v1.6.2",
