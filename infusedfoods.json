@@ -10,10 +10,11 @@
 		"1.18.1-latest": "3.1.1",
 		"1.18.1-recommended": "3.1.1",
 
-		"1.18.2-latest": "4.1.1",
-		"1.18.2-recommended": "4.1.1"
+		"1.18.2-latest": "4.1.2",
+		"1.18.2-recommended": "4.1.2"
 	},
 	"1.18.2": {
+		"4.1.2": "Changelog: https://github.com/apexstudios-Dev/InfusedFoods/compare/v4.1.1...v4.1.2",
 		"4.1.1": "Changelog: https://github.com/apexstudios-Dev/InfusedFoods/compare/v4.1.0...v4.1.1",
 		"4.1.0": "Port to 1.18.2"
 	},
