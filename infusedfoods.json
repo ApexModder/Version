@@ -10,10 +10,11 @@
 		"1.18.1-latest": "3.1.1",
 		"1.18.1-recommended": "3.1.1",
 
-		"1.18.2-latest": "4.3.0",
-		"1.18.2-recommended": "4.3.0"
+		"1.18.2-latest": "4.3.1",
+		"1.18.2-recommended": "4.3.1"
 	},
 	"1.18.2": {
+		"4.3.1": "Changelog: https://github.com/apexstudios-Dev/InfusedFoods/compare/v4.3.0...v4.3.1",
 		"4.3.0": "Changelog: https://github.com/apexstudios-Dev/InfusedFoods/compare/v4.2.0...v4.3.0",
 		"4.2.0": "Changelog: https://github.com/apexstudios-Dev/InfusedFoods/compare/v4.1.2...v4.2.0",
 		"4.1.2": "Changelog: https://github.com/apexstudios-Dev/InfusedFoods/compare/v4.1.1...v4.1.2",
