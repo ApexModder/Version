@@ -5,7 +5,13 @@
 		"1.16.5-recommended": "2.0.1",
 
 		"1.18.2-latest": "3.5.3",
-		"1.18.2-recommended": "3.5.2"
+		"1.18.2-recommended": "3.5.2",
+
+		"1.19-latest": "4.2.0",
+		"1.19-recommended": "4.2.0"
+	},
+	"1.19": {
+		"4.2.0": "Initial 1.19 Release"
 	},
 	"1.18.2": {
 		"3.5.3": "Changelog: https://github.com/ApexStudios-Dev/FantasyFurniture/compare/v3.5.2...v3.5.3",
