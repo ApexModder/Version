@@ -11,7 +11,13 @@
 		"1.18.1-recommended": "3.3.2",
 
 		"1.18.2-latest": "4.4.1",
-		"1.18.2-recommended": "4.4.1"
+		"1.18.2-recommended": "4.4.1",
+
+		"1.19-latest": "5.2.0",
+		"1.19-recommended": "5.2.0"
+	},
+	"1.19": {
+		"5.2.0": "Initial 1.19 Release"
 	},
 	"1.18.2": {
 		"4.4.1": "Changelog: https://github.com/apexstudios-Dev/FantasyTable/compare/v4.4.0...v4.4.1",
