@@ -10,18 +10,20 @@
 		"1.18.1-latest": "3.4.4",
 		"1.18.1-recommended": "3.4.4",
 
-		"1.18.2-latest": "4.8.0",
-		"1.18.2-recommended": "4.8.0",
+		"1.18.2-latest": "4.10.0",
+		"1.18.2-recommended": "4.10.0",
 
-		"1.19-latest": "5.2.2",
-		"1.19-recommended": "5.2.2"
+		"1.19-latest": "5.3.0",
+		"1.19-recommended": "5.3.0"
 	},
 	"1.19": {
+		"5.3.0": "Changelog: https://github.com/apexstudios-Dev/ApexCore/compare/v5.2.2...v5.3.0",
 		"5.2.2": "Changelog: https://github.com/apexstudios-Dev/ApexCore/compare/v5.1.0...v5.2.2",
 		"5.1.0": "Changelog: https://github.com/apexstudios-Dev/ApexCore/compare/v5.1.0...v5.0.0",
 		"5.0.0": "Port to 1.19"
 	},
 	"1.18.2": {
+		"4.10.0": "Changelog: https://github.com/apexstudios-Dev/ApexCore/compare/v4.8.0...v4.10.0",
 		"4.8.0": "Changelog: https://github.com/apexstudios-Dev/ApexCore/compare/v4.7.0...v4.8.0",
 		"4.7.0": "Changelog: https://github.com/apexstudios-Dev/ApexCore/compare/v4.5.1...v4.7.0",
 		"4.5.1": "Changelog: https://github.com/apexstudios-Dev/ApexCore/compare/v4.5.0...v4.5.1",
