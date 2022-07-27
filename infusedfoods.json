@@ -1,5 +1,5 @@
 {
-	"homepage": "https://github.com/ApexStudios-Dev/InfusedFoods",
+	"homepage": "https://www.apexstudios.dev/infused-foods",
 	"promos": {
 		"1.16.5-latest": "1.1.1",
 		"1.16.5-recommended": "1.1.1",
@@ -13,10 +13,11 @@
 		"1.18.2-latest": "4.5.0",
 		"1.18.2-recommended": "4.5.0",
 
-		"1.19-latest": "5.3.0",
-		"1.19-recommended": "5.3.0"
+		"1.19-latest": "5.4.0",
+		"1.19-recommended": "5.4.0"
 	},
 	"1.19": {
+		"5.4.0": "Changelog: https://github.com/apexstudios-Dev/InfusedFoods/compare/v5.3.0...v5.4.0",
 		"5.3.0": "Changelog: https://github.com/apexstudios-Dev/InfusedFoods/compare/v5.2.0...v5.3.0",
 		"5.2.0": "Initial 1.19 Release"
 	},
