@@ -1,5 +1,5 @@
 {
-	"homepage": "https://github.com/apexstudios-Dev/FantasyFurniture",
+	"homepage": "https://www.apexstudios.dev/fantasys-furniture",
 	"promos": {
 		"1.16.5-latest": "2.0.2",
 		"1.16.5-recommended": "2.0.1",
@@ -7,10 +7,11 @@
 		"1.18.2-latest": "3.6.1",
 		"1.18.2-recommended": "3.6.1",
 
-		"1.19-latest": "4.2.1",
-		"1.19-recommended": "4.2.1"
+		"1.19-latest": "4.3.0",
+		"1.19-recommended": "4.3.0"
 	},
 	"1.19": {
+		"4.3.0": "Changelog: https://github.com/ApexStudios-Dev/FantasyFurniture/compare/v4.2.1...v4.3.0",
 		"4.2.1": "Changelog: https://github.com/ApexStudios-Dev/FantasyFurniture/compare/v4.2.0...v4.2.1",
 		"4.2.0": "Initial 1.19 Release"
 	},
