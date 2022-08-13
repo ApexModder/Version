@@ -13,10 +13,11 @@
 		"1.19.1-latest": "5.0.1",
 		"1.19.1-recommended": "5.0.1",
 
-		"1.19.2-latest": "6.1.0",
-		"1.19.2-recommended": "6.1.0"
+		"1.19.2-latest": "6.1.1",
+		"1.19.2-recommended": "6.1.1"
 	},
 	"1.19.2": {
+		"6.1.1": "Changelog: https://github.com/ApexStudios-Dev/FantasyFurniture/compare/v6.1.0...v6.1.1",
 		"6.1.0": "Changelog: https://github.com/ApexStudios-Dev/FantasyFurniture/compare/v6.0.0...v6.1.0",
 		"6.0.0": "Update to 1.19.2\nChangelog: https://github.com/ApexStudios-Dev/FantasyFurniture/compare/v5.0.1...v6.0.0"
 	},
