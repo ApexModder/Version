@@ -19,10 +19,11 @@
 		"1.19.1-latest": "6.0.1",
 		"1.19.1-recommended": "6.0.1",
 
-		"1.19.2-latest": "7.1.1",
-		"1.19.2-recommended": "7.1.1"
+		"1.19.2-latest": "7.1.2",
+		"1.19.2-recommended": "7.1.2"
 	},
 	"1.19.2": {
+		"7.1.2": "Changelog: https://github.com/apexstudios-Dev/FantasyDice/compare/v7.1.1...v7.1.2",
 		"7.1.1": "Changelog: https://github.com/apexstudios-Dev/FantasyDice/compare/v7.1.0...v7.1.1",
 		"7.1.0": "Changelog: https://github.com/apexstudios-Dev/FantasyDice/compare/v7.0.0...v7.1.0",
 		"7.0.0": "Update to 1.19.2\nChangelog: https://github.com/apexstudios-Dev/FantasyDice/compare/v6.0.1...v7.0.0"
