@@ -10,8 +10,8 @@
 		"1.18.1-latest": "3.1.1",
 		"1.18.1-recommended": "3.1.1",
 
-		"1.18.2-latest": "4.5.0",
-		"1.18.2-recommended": "4.5.0",
+		"1.18.2-latest": "4.6.0",
+		"1.18.2-recommended": "4.6.0",
 
 		"1.19-latest": "5.4.0",
 		"1.19-recommended": "5.4.0",
@@ -37,6 +37,7 @@
 		"5.2.0": "Initial 1.19 Release"
 	},
 	"1.18.2": {
+		"4.6.0": "Changelog: https://github.com/apexstudios-Dev/InfusedFoods/compare/v4.5.0...v4.6.0",
 		"4.5.0": "Changelog: https://github.com/apexstudios-Dev/InfusedFoods/compare/v4.3.1...v4.5.0",
 		"4.3.1": "Changelog: https://github.com/apexstudios-Dev/InfusedFoods/compare/v4.3.0...v4.3.1",
 		"4.3.0": "Changelog: https://github.com/apexstudios-Dev/InfusedFoods/compare/v4.2.0...v4.3.0",
