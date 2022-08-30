@@ -19,10 +19,11 @@
 		"1.19.1-latest": "6.0.1",
 		"1.19.1-recommended": "6.0.1",
 
-		"1.19.2-latest": "7.1.8",
-		"1.19.2-recommended": "7.1.8"
+		"1.19.2-latest": "7.1.9",
+		"1.19.2-recommended": "7.1.9"
 	},
 	"1.19.2": {
+		"7.1.9": "Changelog: https://github.com/apexstudios-Dev/ApexCore/compare/v7.1.8...v7.1.8",
 		"7.1.8": "Changelog: https://github.com/apexstudios-Dev/ApexCore/compare/v7.1.7...v7.1.8",
 		"7.1.7": "Changelog: https://github.com/apexstudios-Dev/ApexCore/compare/v7.1.6...v7.1.7",
 		"7.1.6": "Changelog: https://github.com/apexstudios-Dev/ApexCore/compare/v7.1.5...v7.1.6",
