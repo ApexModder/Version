@@ -1,17 +1,17 @@
 [
 	{
 		"uuid": "16d60e4e-53ba-4288-8062-ca1ea074b501",
-		"level": "supporter",
+		"type": "early_alpha",
 		"name": "RudySPG"
 	},
 	{
 		"uuid": "ae3f6ca6-b28c-479b-9c97-4be7df600041",
-		"level": "supporter",
+		"type": "early_alpha",
 		"name": "TroublesomeTobi"
 	},
 	{
 		"uuid": "598535bd-f330-4123-b4d0-c6e618390477",
-		"level": "artist",
+		"type": "artist",
 		"name": "FantasyGaming"
 	},
 	{
@@ -19,7 +19,7 @@
 		"aliases": [
 			"0dcd933f-28b3-44ab-ac09-5dc9095a7b21"
 		],
-		"level": "owner",
+		"type": "owner",
 		"name": "Apex"
 	}
 ]
